@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/siandai/__init__.py
+src/siandai/example.py
+src/siandai.egg-info/PKG-INFO
+src/siandai.egg-info/SOURCES.txt
+src/siandai.egg-info/dependency_links.txt
+src/siandai.egg-info/requires.txt
+src/siandai.egg-info/top_level.txt
